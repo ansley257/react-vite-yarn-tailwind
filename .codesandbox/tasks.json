@@ -17,6 +17,11 @@
         "port": 5173
       }
     },
+    "css": {
+      "name": "css",
+      "command": "yarn css",
+      "runAtStart": false
+    },
     "build": {
       "name": "build",
       "command": "yarn build",
